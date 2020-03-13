@@ -1,0 +1,14 @@
+C:\Users\eilis\OneDrive\Desktop\IS1111 Project\IS1111.vb\IS1111.vb\bin\Debug\IS1111.vb.exe.config
+C:\Users\eilis\OneDrive\Desktop\IS1111 Project\IS1111.vb\IS1111.vb\bin\Debug\IS1111.vb.exe
+C:\Users\eilis\OneDrive\Desktop\IS1111 Project\IS1111.vb\IS1111.vb\bin\Debug\IS1111.vb.pdb
+C:\Users\eilis\OneDrive\Desktop\IS1111 Project\IS1111.vb\IS1111.vb\bin\Debug\IS1111.vb.xml
+C:\Users\eilis\OneDrive\Desktop\IS1111 Project\IS1111.vb\IS1111.vb\obj\Debug\IS1111.vb.vbprojAssemblyReference.cache
+C:\Users\eilis\OneDrive\Desktop\IS1111 Project\IS1111.vb\IS1111.vb\obj\Debug\IS1111.vb.frmShoe.resources
+C:\Users\eilis\OneDrive\Desktop\IS1111 Project\IS1111.vb\IS1111.vb\obj\Debug\IS1111.vb.Resources.resources
+C:\Users\eilis\OneDrive\Desktop\IS1111 Project\IS1111.vb\IS1111.vb\obj\Debug\IS1111.vb.vbproj.GenerateResource.cache
+C:\Users\eilis\OneDrive\Desktop\IS1111 Project\IS1111.vb\IS1111.vb\obj\Debug\IS1111.vb.vbproj.CoreCompileInputs.cache
+C:\Users\eilis\OneDrive\Desktop\IS1111 Project\IS1111.vb\IS1111.vb\obj\Debug\IS1111.vb.exe
+C:\Users\eilis\OneDrive\Desktop\IS1111 Project\IS1111.vb\IS1111.vb\obj\Debug\IS1111.vb.xml
+C:\Users\eilis\OneDrive\Desktop\IS1111 Project\IS1111.vb\IS1111.vb\obj\Debug\IS1111.vb.pdb
+C:\Users\eilis\OneDrive\Desktop\IS1111 Project\IS1111.vb\IS1111.vb\obj\Debug\IS1111.vb.frmAdditions.resources
+C:\Users\eilis\OneDrive\Desktop\IS1111 Project\IS1111.vb\IS1111.vb\obj\Debug\IS1111.vb.frmPrice.resources
